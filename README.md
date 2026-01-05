@@ -68,7 +68,7 @@ Toute demande peut être adressée à :
 
 ## 7. Protection des mineurs
 
-Botty n’est pas destinée aux enfants de moins de 13 ans.
+Botty n’est pas destinée aux enfants de moins de 18 ans.
 Aucune donnée n’est collectée sciemment auprès de mineurs.
 
 ## 8. Avertissement financier
